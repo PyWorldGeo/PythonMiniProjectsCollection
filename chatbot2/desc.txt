@@ -1,0 +1,17 @@
+1. minitopic
+str deeper (.lower, formatting)
+func deeper (""" """)
+
+2. minitopic
+dict datatype
+
+3. minitopic
+files json
+
+
+
+
+/////////////////////////
+OOP
+django
+ChatGpt

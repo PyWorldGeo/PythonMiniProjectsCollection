@@ -1,0 +1,29 @@
+1. minitopic
+variables
+print
+integer
+string
+while
+
+2. minitopic
+if/elif/else
+== / != / >= / <=
+and or not
+
+3. minitopic
+list
+for
+input
+
+4.
+func
+scope (global)
+
+
+
+
+
+
+/////////////
+OOP
+Pygame

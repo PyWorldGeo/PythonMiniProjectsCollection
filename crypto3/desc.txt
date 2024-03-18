@@ -1,0 +1,15 @@
+1. minitopic
+importing
+__name__ == "__main__"
+
+2. minitopic
+time
+requests
+
+
+
+
+
+///////////////
+pandas
+Saving a Pandas DataFrame into Django models is a powerful way to integrate data analysis with your Django applications.
